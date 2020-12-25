@@ -10,8 +10,12 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "DaiYi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maybeisyi/react-native-dycardview.git"
+  },
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
